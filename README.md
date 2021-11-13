@@ -1,6 +1,6 @@
 # Jogo_da_Memoria
     - Jogo da memória com Efeitos 3D
-    - Projeto da Digital Inovation One
+    - Projeto da Digital Innovation One
 
 #### Criando o Jogo
     - 04/11/2021
