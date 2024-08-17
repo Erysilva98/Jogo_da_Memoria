@@ -1,0 +1,9 @@
+services:
+  web:
+    image: httpd:latest
+    container_name: Gamer
+    ports:
+      - "8081:80"
+    volumes:
+      - ./:/usr/local/apache2/htdocs/
+
